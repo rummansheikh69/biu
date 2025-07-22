@@ -35,7 +35,7 @@ export function Marquee() {
     "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753196070/raw_7_edzlc8.webp",
   ];
   return (
-    <div className="  mx-auto my-10 max-w-7xl rounded-3xl bg-gray-950/5 p-2 ring-1 ring-neutral-700/10 dark:bg-neutral-800">
+    <div className="  mx-auto my-10 max-w-7xl rounded-3xl bg-gray-950/5 p-2 ring-1 ring-neutral-700/10 ">
       <ThreeDMarquee images={images} />
     </div>
   );
