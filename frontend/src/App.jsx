@@ -48,7 +48,7 @@ function App() {
                   </a>
                 </div>
                 <a
-                  href="https://letsbonk.fun/9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk"
+                  href="https://letsbonk.fun/WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk"
                   target="_blank"
                 >
                   <button className=" px-10 bg-main py-2 rounded-lg border border-zinc-800">
@@ -77,10 +77,10 @@ function App() {
               </p>
               <div className=" w-full border-2 border-zinc-400 mt-5 pl-5 rounded-full h-12 flex items-center justify-between">
                 <p className=" select-all">
-                  9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk
+                  WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk
                 </p>
                 <a
-                  href="https://letsbonk.fun/9coMK7eeLM439K99WyCJm9xUiD5VxEKv4YnzTfk1bonk"
+                  href="https://letsbonk.fun/WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk"
                   target="_blank"
                   className=" px-5 rounded-r-full bg-[#45B9F6] hover:bg-[#3b9ed3] duration-200 h-full flex items-center justify-center"
                 >
