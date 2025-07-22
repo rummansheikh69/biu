@@ -9,16 +9,7 @@ function About() {
       <div className=" md:grid grid-cols-2 gap-4 px-5 md:px-24 mt-10">
         <div className="">
           <p className=" text-zinc-300 tracking-wide leading-7">
-            Andy started as a carefree member of the Boys Club, a trippy kid who
-            embodied the meme culture's wild side. But beneath his seemingly
-            light-hearted exterior lies a crypto mastermind with deep ties in
-            the Asian finance scene. By day, he's the lovable Boys Club Andy,
-            but by night, he transforms into a stealthy operator on the Binance
-            blockchain, navigating the high-stakes world of crypto with a
-            007-like finesse. Underestimated by many, Andy isn't just a
-            meme-he's a crypto degenerate with connections that run deeper than
-            anyone could imagine. Welcome to the real Andy: the silent hitman of
-            the digital finance world.
+            BIU started as a chaotic meme cat from the depths of internet culture — wild, loud, and dangerously adorable. But behind the laser eyes and GIFs lurks a crypto predator with razor-sharp instincts. By day, it’s just another viral feline, but by night, BIU prowls the Solana blockchain like a stealth sniper, flipping tokens and farming liquidity in silence. Laughed off by many, BIU isn’t just a meme — it’s a degenerate with claws deep in DeFi and instincts sharper than most wallets. Welcome to BIU: the purring menace of the Solana network.
           </p>
 
           <div className=" flex items-center gap-3 mt-5">
