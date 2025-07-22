@@ -37,7 +37,7 @@ function About() {
             </a>
           </div>
         </div>
-        <div className="mt-10 md:mt-0 h-48 md:h-96 rounded-lg overflow-hidden">
+        <div className="mt-10 md:mt-0 h-96 rounded-lg overflow-hidden">
           <video
             src="https://res.cloudinary.com/dsdg8ke2n/video/upload/v1753196068/u9459915811_httpss.mj.run1wZ4eA0xbc0_animate_this_picture_sho_aaf1a088-2c99-427d-b5bc-835901f89d6e_0_jwxk1z.mov"
             className=" w-full h-full object-cover"
