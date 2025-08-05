@@ -14,7 +14,7 @@ function About() {
 
           <div className=" flex items-center gap-3 mt-5">
             <a
-              href="https://pump.fun/coin/VwiqhEWtHZLNygKRczE7CjRLesgFTN3Yo3kJTrnpump"
+              href="https://pump.fun/coin/Ctun2VMYc1GMzW8eTTAFu1dToz2VpmBmNmHfgcoPpump"
               target="_blank"
             >
               <button className=" px-10 bg-[#131950] py-2 rounded-lg border border-zinc-800">
