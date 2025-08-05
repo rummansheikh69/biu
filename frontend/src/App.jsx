@@ -48,7 +48,7 @@ function App() {
                   </a>
                 </div>
                 <a
-                  href="https://pump.fun/coin/VwiqhEWtHZLNygKRczE7CjRLesgFTN3Yo3kJTrnpump"
+                  href="https://pump.fun/coin/Ctun2VMYc1GMzW8eTTAFu1dToz2VpmBmNmHfgcoPpump"
                   target="_blank"
                 >
                   <button className=" px-10 bg-main py-2 rounded-lg border border-zinc-800">
@@ -77,10 +77,10 @@ function App() {
               </p>
               <div className=" w-full border-2 border-zinc-400 mt-5 pl-5 rounded-full h-12 flex items-center justify-between">
                 <p className=" select-all">
-                  WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk
+                  Ctun2VMYc1GMzW8eTTAFu1dToz2VpmBmNmHfgcoPpump
                 </p>
                 <a
-                  href="https://pump.fun/coin/VwiqhEWtHZLNygKRczE7CjRLesgFTN3Yo3kJTrnpump"
+                  href="https://pump.fun/coin/Ctun2VMYc1GMzW8eTTAFu1dToz2VpmBmNmHfgcoPpump"
                   target="_blank"
                   className=" px-5 rounded-r-full bg-[#45B9F6] hover:bg-[#3b9ed3] duration-200 h-full flex items-center justify-center"
                 >
