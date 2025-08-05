@@ -131,7 +131,7 @@ function App() {
           </div>
           <h1 className=" heading text-lg mt-2">Join The Community</h1>
           <a
-            href="https://x.com/biusolana"
+            href="https://x.com/i/communities/1952792476370264552"
             target="_blank"
             className=" mt-2 flex items-center gap-2"
           >
