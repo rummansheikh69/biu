@@ -33,7 +33,7 @@ function HowToBuy() {
           <div className=" px-5 md:px-12 w-[90%] h-40 flex flex-col items-center bg-[#07091d] border-2 border-[#45B9F6] rounded-3xl justify-center drop-shadow-[0px_0px_10px_#d130af]">
             <h1 className=" text-4xl heading">CONNECT WALLET</h1>
             <p className=" mt-2 text-zinc-300 text-center">
-              CONNECT YOUR PHANTOM WALLET TO BONK.FUN
+              CONNECT YOUR PHANTOM WALLET TO PUMP.FUN
             </p>
           </div>
         </div>
