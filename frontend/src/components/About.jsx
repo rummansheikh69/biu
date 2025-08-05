@@ -21,7 +21,7 @@ function About() {
                 <p className=" heading text-[#45B9F6]">BUY $BIU</p>
               </button>
             </a>
-            <a href="https://x.com/i/communities/1947766098688151958" target="_blank">
+            <a href="https://x.com/i/communities/1952792476370264552" target="_blank">
               <button className=" px-10 bg-[#090c27] py-2 rounded-lg border border-zinc-800">
                 <p className=" heading text-[#45B9F6]">JOIN COMMUNITY</p>
               </button>
