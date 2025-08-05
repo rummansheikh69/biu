@@ -48,11 +48,11 @@ function App() {
                   </a>
                 </div>
                 <a
-                  href="https://letsbonk.fun/WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk"
+                  href="https://pump.fun/coin/VwiqhEWtHZLNygKRczE7CjRLesgFTN3Yo3kJTrnpump"
                   target="_blank"
                 >
                   <button className=" px-10 bg-main py-2 rounded-lg border border-zinc-800">
-                    <p className=" heading text-[#45B9F6]">BUY $BIU</p>
+                    <p className=" heading text-[#45B9F6]">PUMP</p>
                   </button>
                 </a>
               </div>
@@ -80,7 +80,7 @@ function App() {
                   WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk
                 </p>
                 <a
-                  href="https://letsbonk.fun/WAGAUZAcy1QQk6UctqVSNjC1vyoiLCJ4vGvPtjzbonk"
+                  href="https://pump.fun/coin/VwiqhEWtHZLNygKRczE7CjRLesgFTN3Yo3kJTrnpump"
                   target="_blank"
                   className=" px-5 rounded-r-full bg-[#45B9F6] hover:bg-[#3b9ed3] duration-200 h-full flex items-center justify-center"
                 >
